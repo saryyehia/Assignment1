@@ -1,0 +1,11 @@
+Model Information:
+* title:	Football Player - France
+* source:	https://sketchfab.com/3d-models/football-player-france-ef9acaa0cbae46edaffdd17dcedecab5
+* author:	neshallads (https://sketchfab.com/neshallads)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Football Player - France" (https://sketchfab.com/3d-models/football-player-france-ef9acaa0cbae46edaffdd17dcedecab5) by neshallads (https://sketchfab.com/neshallads) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
