@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wilson Basketball
+* source:	https://sketchfab.com/3d-models/wilson-basketball-0bd35aa0fe4a44b9afab1ac4c72e091e
+* author:	24fpsboy (https://sketchfab.com/ikagogava)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wilson Basketball" (https://sketchfab.com/3d-models/wilson-basketball-0bd35aa0fe4a44b9afab1ac4c72e091e) by 24fpsboy (https://sketchfab.com/ikagogava) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
